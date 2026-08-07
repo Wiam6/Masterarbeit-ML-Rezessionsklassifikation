@@ -1,0 +1,2 @@
+# Masterarbeit-ML-Rezessionsklassifikation
+Masterarbeit Wirtschaftsinformatik – Machine-Learning-basierte Rezessionsklassifikation
