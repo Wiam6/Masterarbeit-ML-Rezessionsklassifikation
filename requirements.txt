@@ -1,0 +1,21 @@
+# requirements.txt – Masterarbeit
+# Benötigte Python-Bibliotheken für Notebook 1–5
+
+# Notebook 1: pandas==2.2.2, dbnomics==1.2.5, openpyxl==3.1.5
+# Notebook 2: pandas, matplotlib, seaborn, numpy, statsmodels, dbnomics, openpyxl
+# Notebook 3: pandas, numpy, scikit-learn, statsmodels
+# Notebook 4: numpy, openpyxl, pandas
+# Notebook 5: matplotlib, numpy, pandas, scikit-learn, seaborn, shap, tensorflow, xgboost
+
+# Installation requirements
+dbnomics
+matplotlib
+numpy
+openpyxl
+pandas
+scikit-learn
+seaborn
+shap
+statsmodels
+tensorflow
+xgboost
